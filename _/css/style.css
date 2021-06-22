@@ -1,0 +1,13 @@
+body {
+  padding-top: 10px;
+}
+
+.parent {
+  margin: auto;
+  border: 2px dotted tomato;
+  padding: 1rem 2rem;
+}
+.child {
+  padding: 1rem 2rem;
+  border: 2px solid gray;
+}

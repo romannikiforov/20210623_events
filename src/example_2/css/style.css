@@ -1,0 +1,21 @@
+.item {
+  text-align: center;
+  margin: auto;
+}
+
+.item_d1 {
+  width: 500px;
+  height: 500px;
+  line-height: 50px;
+  border: 1px solid tomato;
+}
+.item_d2 {
+  width: 400px;
+  height: 400px;
+  border: 1px solid green;
+}
+.item_d3 {
+  width: 300px;
+  height: 300px;
+  border: 1px solid skyblue;
+}
