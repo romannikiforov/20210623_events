@@ -1,0 +1,5 @@
+https://developer.mozilla.org/ru/docs/Web/API/EventTarget
+
+
+https://developer.mozilla.org/ru/docs/Web/Events
+https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
